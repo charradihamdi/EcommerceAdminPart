@@ -255,7 +255,7 @@ body.modal-open {
   padding-right: 0 !important;
 }
 .bg-dark {
-  background-color: #3042e2 !important;
+  background-color: #000000 !important;
 }
 /*------------ GLobal Settings: Heading-------------*/
 h1,
@@ -356,7 +356,7 @@ html body .db {
   background: #1e2944;
 }
 .dark-2 {
-  background: #2944c1;
+  background: #e22319;
 }
 .dark-3 {
   background: #0b85ec;
@@ -2027,15 +2027,15 @@ a.btn-outline-success:focus {
   display: inline-block;
 }
 .pagination li:first-child a {
-  background: #2944c1;
-  border: 1px solid #2944c1;
+  background: #e22319;
+  border: 1px solid #e22319;
   border-radius: 2px;
   color: #fff;
 }
 
 .pagination li:last-child a {
-  background: #2944c1;
-  border: 1px solid #2944c1;
+  background: #e22319;
+  border: 1px solid #e22319;
   border-radius: 2px;
   color: #fff;
 }
@@ -2527,7 +2527,7 @@ textarea.form-control {
   }
 }
 .mapping_search {
-  background: #2944c1;
+  background: #e22319;
 }
 .br-0 .select2-container--default .select2-selection--single {
   border: none !important;
@@ -3678,7 +3678,7 @@ nav a {
   color: #ffffff !important;
 }
 .nav-menu.nav-menu-social > li.add-listing.dark-bg {
-  background: #2944c1;
+  background: #e22319;
 }
 .nav-menu.nav-menu-social > li.add-listing.dark-bg.light {
   background: #0b85ec;
@@ -4257,7 +4257,7 @@ h1.small {
   justify-content: center;
 }
 .btn--2 {
-  background: #2944c1 !important;
+  background: #e22319 !important;
 }
 .radiup {
   border-radius: 4px 0px 0px 4px;
@@ -4410,7 +4410,7 @@ img.image-cover {
   position: absolute;
   width: 180px;
   height: 180px;
-  background: #2944c1;
+  background: #e22319;
   bottom: 0;
   display: flex;
   align-items: flex-start;
@@ -4476,10 +4476,10 @@ img.image-cover {
 .btn._hire_freelancers:hover,
 .btn._hire_freelancers:focus {
   color: #ffffff;
-  background: #2944c1;
+  background: #e22319;
 }
 a.btn._loonking_job {
-  background: #2944c1;
+  background: #e22319;
   border-radius: 50px;
   font-size: 14px;
   font-weight: 500;
@@ -5883,7 +5883,7 @@ ul.applieded_list li .nore_applied span {
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-  background: #2944c1;
+  background: #e22319;
 }
 .page-title.search-form {
   width: 100%;
@@ -5928,7 +5928,7 @@ ul.applieded_list li .nore_applied span {
   border-radius: 0;
   margin-bottom: 0;
   padding: 0;
-  background: #2944c1;
+  background: #e22319;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 .accordion > .card > .card-header .btn.btn-link {
@@ -5972,7 +5972,7 @@ ul.applieded_list li .nore_applied span {
 .accordion.light_modal > .card > .card-header .btn.btn-link {
   position: relative;
   padding: 1.2rem 1rem;
-  color: #2944c1;
+  color: #e22319;
   background: rgba(41, 68, 193, 0.1);
   border-bottom: 1px solid rgba(41, 68, 193, 0.1);
 }
@@ -5981,7 +5981,7 @@ ul.applieded_list li .nore_applied span {
   > .card-header
   .btn.btn-link[aria-expanded="true"] {
   color: #ffffff;
-  background: #2944c1;
+  background: #e22319;
 }
 .accordion.light_modal > .card:last-child .card-header .btn.btn-link {
   border: none;
@@ -5996,7 +5996,7 @@ ul.applieded_list li .nore_applied span {
 }
 .basic_tab .nav-tabs {
   border: none;
-  background: #2944c1;
+  background: #e22319;
   position: relative;
 }
 .basic_tab .nav-tabs .nav-link {
@@ -6026,7 +6026,7 @@ ul.applieded_list li .nore_applied span {
   background: rgba(41, 68, 193, 0.1);
   margin-right: 10px;
   padding: 0.8rem 2rem;
-  color: #2944c1;
+  color: #e22319;
   border: 1px solid rgba(41, 68, 193, 0.2);
 }
 .pills_basic_tab .nav-link.active {
@@ -6175,14 +6175,14 @@ a.btn.bat-call-to-act:focus {
   border: 1px solid rgba(41, 68, 193, 0.2);
   padding: 0 30px;
   border-radius: 4px;
-  color: #2944c1;
+  color: #e22319;
   transition: all ease 0.4s;
 }
 ._browse_more.light:hover,
 ._browse_more.light:focus {
   color: #ffffff;
-  background: #2944c1;
-  border: 1px solid #2944c1;
+  background: #e22319;
+  border: 1px solid #e22319;
 }
 ._browse_more {
   width: auto;
@@ -6191,8 +6191,8 @@ a.btn.bat-call-to-act:focus {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
-  background: #2944c1;
-  border: 1px solid #2944c1;
+  background: #e22319;
+  border: 1px solid #e22319;
   padding: 0 25px;
   border-radius: 4px;
   color: #ffffff;
@@ -6261,8 +6261,8 @@ a.btn.bat-call-to-act:focus {
 ._browse_more-light:hover,
 ._browse_more-light:focus {
   color: #ffffff;
-  background: #2944c1;
-  border: 1px solid #2944c1;
+  background: #e22319;
+  border: 1px solid #e22319;
 }
 /*-------------- Job categories ------------------*/
 .small-category-2 {
@@ -6560,7 +6560,7 @@ span.time_esti {
 .btn.pricing_btn:hover,
 .btn.pricing_btn:focus {
   color: #ffffff;
-  background: #2944c1;
+  background: #e22319;
 }
 .featured .btn.pricing_btn {
   color: #ffffff;
@@ -6602,7 +6602,7 @@ ul.pricing_lists li:before {
   color: #6179b3;
 }
 .pricing_boxes.featured {
-  background: #2944c1;
+  background: #e22319;
 }
 .featured .pricing_thumb_title p {
   color: #8a9fff;
@@ -6674,7 +6674,7 @@ ul.pricing_lists li:before {
   background: rgba(41, 68, 193, 0.1);
   border-radius: 50%;
   display: inline-flex;
-  color: #2944c1;
+  color: #e22319;
 }
 .form_row_box {
   background: #ffffff;
@@ -6912,7 +6912,7 @@ ul.pricing_lists li:before {
 }
 .subscribe-box .btn.btn-subscribe {
   color: #ffffff;
-  background: #2944c1;
+  background: #e22319;
   height: 60px;
   border-radius: 0px 4px 4px 0px;
 }
@@ -7011,7 +7011,7 @@ ul.pricing_lists li:before {
 }
 .table .thead-dark th {
   color: #fff;
-  background-color: #2944c1;
+  background-color: #e22319;
   border-color: transparent;
 }
 
@@ -7306,14 +7306,14 @@ span.hm_nav_clear {
   margin: 0;
 }
 .radio-custom:checked + .radio-custom-label:before {
-  background: #2944c1 !important;
+  background: #e22319 !important;
   border: 2px solid #dae3ec;
   box-shadow: none;
 }
 .checkbox-custom:checked + .checkbox-custom-label:before {
   content: "\e64c";
   font-family: "Themify";
-  background: #2944c1 !important;
+  background: #e22319 !important;
   border-radius: 2px;
   box-shadow: none;
   color: #ffffff;
@@ -7328,7 +7328,7 @@ span.hm_nav_clear {
   font-family: "Themify";
   width: 20px;
   height: 20px;
-  background: #2944c1 !important;
+  background: #e22319 !important;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -7348,7 +7348,7 @@ span.hm_nav_clear {
 }
 .btn-theme-2 {
   color: #ffffff;
-  background: #2944c1;
+  background: #e22319;
   transition: all ease 0.4s;
 }
 .btn-theme-2:hover,
@@ -7683,7 +7683,7 @@ ul.bottoms_applies li ._applied_jb {
   list-style: none;
   display: block;
   font-size: 16px;
-  color: #2944c1;
+  color: #e22319;
   font-weight: 600;
 }
 ._jb_summary ul li span {
@@ -7851,7 +7851,7 @@ button.btn_applynow {
   margin: 0;
   line-height: 1.4;
   font-weight: 600;
-  color: #2944c1;
+  color: #e22319;
 }
 ._eltio_caption_body span {
   font-size: 14px;
@@ -8584,7 +8584,7 @@ blockquote {
   border-radius: 4px;
   margin-top: 1rem;
   position: relative;
-  border-left: 3px solid #2944c1;
+  border-left: 3px solid #e22319;
 }
 blockquote p {
   line-height: 2;
@@ -8999,7 +8999,7 @@ h3.pa-name {
   border-bottom: none;
 }
 .bredcrumb_wrap nav .breadcrumb {
-  background: #3042e2;
+  background: #000000;
   margin-bottom: 30px;
   margin-top: 10px;
 }
@@ -10589,7 +10589,7 @@ h4.widget-title {
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 0;
-  color: #2944c1;
+  color: #e22319;
 }
 .footer-widget p {
   color: #6e7598;
@@ -10614,7 +10614,7 @@ h4.widget-title {
   font-size: 14px;
 }
 .footer-bottom p a {
-  color: #2944c1;
+  color: #e22319;
   font-weight: 600;
 }
 footer.skin-dark-footer h4 {

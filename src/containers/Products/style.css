@@ -22,17 +22,17 @@
 .TableProducts {
   border: 0px solid black;
   margin-top: 2rem;
-  box-shadow: 2px 2px 2px 2px #3042e2;
+  box-shadow: 2px 2px 2px 2px #000000;
   border-radius: 20px;
 }
 thead {
-  background-color: #3042e2;
+  background-color: #000000;
   color: white;
   font-weight: bold;
   font-size: 16px;
 }
 tbody tr td:first-child {
-  color: #3042e2;
+  color: #000000;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -56,6 +56,6 @@ tbody button:nth-child(2) {
 }
 tbody td {
   font-weight: bold;
-  color: #3042e2;
+  color: #000000;
   font-size: 14px;
 }
