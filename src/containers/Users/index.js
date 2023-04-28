@@ -190,7 +190,13 @@ const Users = (props) => {
       <Container>
         <Row>
           <Col md={12}>
-            <div style={{ display: "flex", justifyContent: "space-between" }}>
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                marginTop: "1rem",
+              }}
+            >
               <h3>Users</h3>
             </div>
           </Col>
