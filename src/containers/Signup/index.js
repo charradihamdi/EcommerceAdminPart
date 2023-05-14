@@ -85,15 +85,10 @@ const Signup = (props) => {
 
                 <div class="col-lg-6 col-md-6 col-sm-12">
                   <div class="form-group">
-                    <label
-                      class="active"
-                      value={email}
-                      type="email"
-                      onChange={(e) => setEmail(e.target.value)}
-                    >
-                      e-Mail
-                    </label>
+                    <label class="active">e-Mail</label>
                     <input
+                      value={email}
+                      onChange={(e) => setEmail(e.target.value)}
                       type="email"
                       class="form-control"
                       placeholder="upxlio@gmail.com"
